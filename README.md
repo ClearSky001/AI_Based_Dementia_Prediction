@@ -51,4 +51,4 @@
 ---
 
 ## 참고 자료
-- 데이터셋: [AI-Hub 웨어러블 라이프로그 데이터](https://aihub.or.kr/)
+- 데이터셋: [AI-Hub 웨어러블 라이프로그 데이터](https://aihub.or.kr/aihubdata/data/view.do?currMenu=115&topMenu=100&aihubDataSe=data&dataSetSn=226)
