@@ -1,7 +1,7 @@
 # AI Based Dementia Prediction
 
 ## 프로젝트 개요
-[AI-Hub의 웨어러블 데이터](https://aihub.or.kr/aihubdata/data/view.do?currMenu=115&topMenu=100&aihubDataSe=data&dataSetSn=226)를 활용하여 치매 고위험군을 예측하는 AI 모델을 개발하는 프로젝트입니다.  
+[AI-Hub의 웨어러블 데이터](https://aihub.or.kr/aihubdata/data/view.do?currMenu=115&topMenu=100&aihubDataSe=data&dataSetSn=226)를 사용, 치매 확률을 예측하는 AI 모델을 개발하는 프로젝트입니다.  
 심박수, 걸음수, 수면 시간 등의 라이프로그 데이터를 분석하고, **LSTM 기반의 시계열 모델**로 시간적 패턴을 학습하도록 설계하였습니다.
 
 현재는 라이프로그 데이터에 사용자별 **MMSE(Mini-Mental State Examination)** 데이터를 포함하여 치매 고위험군을 예측하고 있지만,  
